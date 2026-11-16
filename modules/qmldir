@@ -1,0 +1,4 @@
+singleton Theme 1.0 Theme.qml
+Dock 1.0 Dock.qml
+Spotlight 1.0 Spotlight.qml
+DockIcon 1.0 DockIcon.qml
